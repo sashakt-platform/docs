@@ -1,0 +1,8 @@
+{
+  "label": "Forms",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Build dynamic forms to capture candidate information, review responses, and export data."
+  }
+}

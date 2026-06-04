@@ -1,0 +1,8 @@
+{
+  "label": "Question Bank",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Add, organize, and reuse questions across many tests."
+  }
+}

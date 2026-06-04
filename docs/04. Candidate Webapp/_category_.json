@@ -1,0 +1,8 @@
+{
+  "label": "Candidate Webapp",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "What candidates see — registering, taking a test, switching languages, and downloading certificates."
+  }
+}

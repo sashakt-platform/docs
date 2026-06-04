@@ -1,0 +1,8 @@
+{
+  "label": "Certificates",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Design certificates issued to candidates and customize them with dynamic tokens."
+  }
+}

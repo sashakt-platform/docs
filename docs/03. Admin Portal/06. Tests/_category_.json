@@ -1,0 +1,8 @@
+{
+  "label": "Tests",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "Create and configure tests, manage sections, and use templates."
+  }
+}
