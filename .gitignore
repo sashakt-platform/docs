@@ -8,6 +8,9 @@
 .docusaurus
 .cache-loader
 
+# Playwright MCP cache
+.playwright-mcp/
+
 # Misc
 .DS_Store
 .env.local
