@@ -2,7 +2,7 @@
   "label": "Integrations",
   "position": 5,
   "link": {
-    "type": "generated-index",
-    "description": "Connect Sashakt to email, storage, analytics, and third-party providers."
+    "type": "doc",
+    "id": "third-party-providers"
   }
 }
