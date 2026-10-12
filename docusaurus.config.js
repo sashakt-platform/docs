@@ -111,6 +111,10 @@ const config = {
                 label: 'FAQ',
                 to: '/faq',
               },
+              {
+                label: 'Privacy Policy',
+                to: '/privacy-policy',
+              },
             ],
           },
           {
